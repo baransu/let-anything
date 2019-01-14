@@ -20,7 +20,7 @@
   "description": "let%Anything ppx for async/options/results/etc.",
   "author": "Jared Forsyth",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "bsb-native": "^4.0.7000"
   }
 }
